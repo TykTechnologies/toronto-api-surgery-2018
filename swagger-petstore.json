@@ -13,7 +13,7 @@
 			"url": "http://www.apache.org/licenses/LICENSE-2.0.html"
 		}
 	},
-	"host": "https://toronto-clinic-2018.cloud.tyk.io",
+	"host": "toronto-clinic-2018.cloud.tyk.io",
 	"basePath": "/petstore",
 	"tags": [{
 		"name": "pet",
